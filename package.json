@@ -39,6 +39,7 @@
     "typescript": "5.3.3",
     "undici": "*",
     "vite": "^5.1.6",
-    "vite-tsconfig-paths": "^4.2.1"
+    "vite-tsconfig-paths": "^4.2.1",
+    "@qwik-ui/headless": "^0.3.5"
   }
 }
